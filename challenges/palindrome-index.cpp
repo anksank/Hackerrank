@@ -1,3 +1,6 @@
+/*
+Solution for the problem  - https://www.hackerrank.com/challenges/palindrome-index
+*/
 #include <cmath>
 #include <cstdio>
 #include <vector>
@@ -41,4 +44,3 @@ int main() {
     }
     return 0;
 }
-
