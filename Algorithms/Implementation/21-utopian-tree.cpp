@@ -10,9 +10,9 @@ int main() {
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     int n;
     cin>>n;
-    int cycles;
+    int cycles; 
     int startH = 1;
-    while(n--){
+    while(n--){ //controls the flow of program
         cin>>cycles;
         int newH = startH;
         for(int i = 0; i < cycles; i++){
